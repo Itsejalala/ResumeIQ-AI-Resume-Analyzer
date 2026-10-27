@@ -1,0 +1,27 @@
+skill,week,topic,subtopics,practice_task,duration,priority,course_name,course_url
+Python,1,Python Fundamentals,"Variables, functions, loops, lists, dictionaries","Solve 10 basic Python problems",5 days,High,Kaggle Python,https://www.kaggle.com/learn/python
+SQL,2,SQL Fundamentals,"SELECT, WHERE, GROUP BY, JOIN, subqueries","Write 15 SQL queries using a sample database",5 days,High,Kaggle Intro to SQL,https://www.kaggle.com/learn/intro-to-sql
+Pandas,3,Pandas for Data Analysis,"DataFrames, filtering, grouping, merging","Analyze a CSV dataset using Pandas",5 days,High,Kaggle Pandas,https://www.kaggle.com/learn/pandas
+NumPy,3,NumPy,"Arrays, indexing, broadcasting, mathematical operations","Perform numerical analysis using NumPy",3 days,Medium,Kaggle Learn NumPy,https://numpy.org/learn/
+Matplotlib,4,Data Visualization,"Plots, charts, subplots, customization","Create 5 visualizations from a dataset",3 days,Medium,Matplotlib Tutorials,https://matplotlib.org/stable/tutorials/
+Machine Learning,5,Machine Learning Fundamentals,"Supervised learning, unsupervised learning, train test split","Build a classification model",7 days,High,Kaggle Intro to Machine Learning,https://www.kaggle.com/learn/intro-to-machine-learning
+Scikit-learn,6,Scikit-learn,"Preprocessing, pipelines, model training, evaluation","Build and evaluate 3 ML models",5 days,High,Scikit-learn User Guide,https://scikit-learn.org/stable/user_guide.html
+Deep Learning,7,Deep Learning Fundamentals,"Neural networks, backpropagation, activation functions","Build a simple neural network",7 days,High,DeepLearning.AI,https://www.deeplearning.ai/
+TensorFlow,8,TensorFlow,"Tensors, layers, models, training","Build an image classification model",7 days,Medium,TensorFlow Tutorials,https://www.tensorflow.org/tutorials
+PyTorch,8,PyTorch,"Tensors, neural networks, training loops","Build a basic neural network in PyTorch",7 days,Medium,PyTorch Tutorials,https://pytorch.org/tutorials/
+NLP,9,Natural Language Processing,"Tokenization, preprocessing, text classification","Build a text classification project",5 days,High,Kaggle NLP,https://www.kaggle.com/learn
+Transformers,10,Transformers,"Attention, self-attention, transformer architecture","Use a pretrained transformer model",7 days,High,Hugging Face Course,https://huggingface.co/learn
+Hugging Face,10,Hugging Face,"Transformers, pipelines, models, datasets","Build an NLP application using Hugging Face",5 days,High,Hugging Face Course,https://huggingface.co/learn
+LLM,11,Large Language Models,"Prompting, inference, context windows, model APIs","Build a simple LLM application",7 days,High,DeepLearning.AI Generative AI,https://www.deeplearning.ai/
+RAG,12,RAG,"Embeddings, retrieval, vector databases, generation","Build a document question-answering system",7 days,High,Hugging Face RAG Guide,https://huggingface.co/learn
+LangChain,12,LangChain,"Chains, prompts, retrievers, document loaders","Build a RAG application using LangChain",5 days,High,LangChain Documentation,https://python.langchain.com/docs/
+LangGraph,13,LangGraph,"Agents, state, graphs, workflows","Build a multi-step AI workflow",5 days,Medium,LangGraph Documentation,https://langchain-ai.github.io/langgraph/
+FAISS,13,FAISS,"Vector indexing, similarity search, embeddings","Create a semantic search system",4 days,High,FAISS Documentation,https://faiss.ai/
+FastAPI,14,FastAPI,"REST APIs, endpoints, request validation","Create an ML prediction API",5 days,High,FastAPI Documentation,https://fastapi.tiangolo.com/
+Flask,14,Flask,"Routes, APIs, request handling","Build a simple REST API",4 days,Medium,Flask Documentation,https://flask.palletsprojects.com/
+Docker,15,Docker,"Images, containers, Dockerfile, deployment","Dockerize an ML application",5 days,High,Docker Documentation,https://docs.docker.com/get-started/
+Git,16,Git,"Commits, branches, merge, pull requests","Create and manage a Git repository",3 days,High,Git Documentation,https://git-scm.com/doc
+GitHub,16,GitHub,"Repositories, README, issues, collaboration","Publish your project on GitHub",3 days,High,GitHub Skills,https://skills.github.com/
+OpenCV,17,Computer Vision,"Image processing, filters, contours","Build an image processing project",5 days,Medium,OpenCV Documentation,https://docs.opencv.org/
+CNN,18,Convolutional Neural Networks,"Convolution, pooling, feature maps","Build an image classifier using CNN",7 days,High,TensorFlow CNN Tutorial,https://www.tensorflow.org/tutorials/images/cnn
+YOLO,19,Object Detection,"Object detection, bounding boxes, inference","Build a real-time object detection project",7 days,Medium,Ultralytics Documentation,https://docs.ultralytics.com/
